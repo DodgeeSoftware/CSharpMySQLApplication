@@ -1,3 +1,5 @@
+# Simple Desktop Application (C#, .NET, MySQLConnector/.NET, Winforms)
+
 This is a Simple Desktop Application which administers a MySQL Database. 
 
 This Application was written using C#, .NET usiung the MySQLConnector.Net library and Winforms.
