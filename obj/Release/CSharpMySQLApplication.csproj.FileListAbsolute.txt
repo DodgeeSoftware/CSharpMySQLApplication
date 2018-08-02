@@ -1,0 +1,12 @@
+C:\myPrograms\CSharpMySQLApplication\bin\Release\CSharpMySQLApplication.exe.config
+C:\myPrograms\CSharpMySQLApplication\bin\Release\CSharpMySQLApplication.exe
+C:\myPrograms\CSharpMySQLApplication\bin\Release\CSharpMySQLApplication.pdb
+C:\myPrograms\CSharpMySQLApplication\obj\Release\CSharpMySQLApplication.AddNewCustomerWindow.resources
+C:\myPrograms\CSharpMySQLApplication\obj\Release\CSharpMySQLApplication.CustomerWindow.resources
+C:\myPrograms\CSharpMySQLApplication\obj\Release\CSharpMySQLApplication.FindCustomerWindow.resources
+C:\myPrograms\CSharpMySQLApplication\obj\Release\CSharpMySQLApplication.MainWindow.resources
+C:\myPrograms\CSharpMySQLApplication\obj\Release\CSharpMySQLApplication.RemoveCustomerWindow.resources
+C:\myPrograms\CSharpMySQLApplication\obj\Release\CSharpMySQLApplication.ShowCustomersWindow.resources
+C:\myPrograms\CSharpMySQLApplication\obj\Release\CSharpMySQLApplication.csproj.GenerateResource.Cache
+C:\myPrograms\CSharpMySQLApplication\obj\Release\CSharpMySQLApplication.exe
+C:\myPrograms\CSharpMySQLApplication\obj\Release\CSharpMySQLApplication.pdb
